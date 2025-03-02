@@ -1,4 +1,4 @@
-```markdown
+
 # Netflix-Themed Web Project
 
 This project is a Netflix-themed web page that showcases various features and sections similar to the Netflix homepage. It includes a hero section, feature highlights, FAQs, and a footer with additional links.
